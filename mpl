@@ -4,7 +4,7 @@
    "app_AppOpenAdStatus":"0",
    "qureka":"https://103.go.mglgamez.com",
    "qureka_splash":"0",
-   "qureka_status":"0",
+   "qureka_status":"1",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
